@@ -49,7 +49,7 @@ Cluster analysis itself is not a specific algorithm, but a general task to be so
 
 # Generative models
 
-Generating against the network attempts to achieve an excellent generation model through the confrontation of the discriminator and the generator, the network hopes to be able to generate realistic images sufficient to fool the discriminator. Generating models In this area, the excellent generation of confrontation networks in recent years was proposed by Ian Goodfellow and Yoshua Bengio in the paper "Generative Adversarial Nets". 
+Generative Adversarial Networks  to achieve an excellent generation model through the confrontation of the discriminator and the generator, the network hopes to be able to generate realistic images sufficient to fool the discriminator. Generating models In this area, the excellent generation of confrontation networks in recent years was proposed by Ian Goodfellow and Yoshua Bengio in the paper "Generative Adversarial Nets". 
 
 A generated confrontation model called DCGAN, instantiated by Alec Radford, Luke Metz, and Soumith Chintala, yielded very good results. Their research is published in the paper: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.
 
