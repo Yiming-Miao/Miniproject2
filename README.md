@@ -80,6 +80,28 @@ Unsupervised learning is an important branch of machine learning. It plays an im
 
 In recent years, many research results have been obtained in the field of unsupervised learning, including the second winner's penalty competition learning algorithm, K-means learning algorithm, K-medoids learning algorithm, density learning algorithm, and spectral clustering algorithm; especially in gene selection. It has been widely used in the diagnosis of diseases.
 
+
+# Group Members' report:<br>
+#### Tingyi Zhang:<br>
+Introduction of object detection model based on deep learning and CNN, including R-CNN, Fast R-CNN, Faster R-CNN, YOLO, YOLOv2, YOLOv3. R-CNN family is more based on static object detection. Faster R-CNN is the fastest among them. YOLO family is more useful in real time object detection which means that the input can be a video.
+
+#### Xiaoyu An:<br>
+Introduction of R-CNN specific four parts: Regional suggestion algorithm(ss), Feature Extraction Algorithm (AlexNet), Linear classifier (linear SVM) and Bounding box correction regression model (Bounding box). Also gives us a procedure of using R-CNN to run an object detection.
+
+#### Vivian Pazmany:<br>
+Introduction of supervised learning and unsupervised learning in machine learning. Also gives us an introduction of TensorFlow. TensorFlow offers a supervised machine learning beginners guide to classify images, train the neural network and test the accuracy of the model.
+
+#### Yingqi Zhang:<br>
+Introduction of computer vision
+Introduction of objection detection
+Difference between R-CNN family algorithms and YOLO family
+Recommendations of using different models
+
+#### Steven Zhu:<br>
+The use of cloud computing to improve conventional deep unsupervised learning algorithms
+Unsupervised learning is able to be trained without labeled data, and is able to be implemented in multiple systems once created. 
+Unsupervised learning is more important when there is a lack of annotated data like medical data
+
 ### Reference
 http://redwood.psych.cornell.edu/papers/olshausen_field_1997.pdf<br>
 https://cs.nyu.edu/~yann/research/deep/<br>
